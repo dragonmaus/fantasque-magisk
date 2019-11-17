@@ -1,0 +1,6 @@
+id=fantasque-magisk
+name=Fantasque Magisk
+version=1.0.0
+versionCode=1
+author=DragonMaus
+description=Replace the default monospace font with Fantasque Sans Mono
